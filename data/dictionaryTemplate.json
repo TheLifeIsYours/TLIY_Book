@@ -1,0 +1,8 @@
+{
+    "word1": {
+        "_this": "word1",
+        "associates": [
+            {"_this": "word2", "score": 1}
+        ]
+    }
+}
